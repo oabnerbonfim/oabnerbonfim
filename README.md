@@ -4,7 +4,7 @@
 
 
 ## 🚀 Sobre mim
-Atualmente sou estudante de Análise e Desenvolvimento de Sistema.
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.
 
 
 ## 🛠 Habilidades
@@ -18,7 +18,5 @@ lógica de programação, Python, C#, HTML, JavaScript, VBA e noções de Power 
 🧠 Estou aprendendo React, Node, bancos de dados SQL e noSQL e outras tecnologias.
 
 📫 Como entrar em contato comigo => e-mail: abnerluan.bonfim@gmail.com
-
-😄 ele/dele
 
 
