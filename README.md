@@ -8,7 +8,7 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.
 
 
 ## 🛠 Habilidades
-lógica de programação, Python, C#, HTML, JavaScript, VBA e noções de Power BI, Power Platform, Power Apps e SQL.
+Lógica de programação, Python, HTML, CSS, JavaScript, VBA, APIs REST, axios e noções de Power BI, Power Platform, Power Apps e SQL.
 
 
 ## 🔗 Links
